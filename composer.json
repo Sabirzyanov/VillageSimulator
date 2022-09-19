@@ -1,0 +1,19 @@
+{
+    "name": "sabir/farm",
+    "autoload": {
+        "psr-4": {
+            "Farm\\": "src/",
+            "Farm\\Animals\\": "src/Animals/",
+            "Farm\\Interfaces\\": "src/Interfaces/",
+            "Farm\\Reporters\\" : "src/Reporters/",
+            "Farm\\Services\\" : "src/Services/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Sabirzyaniov",
+            "email": "sabirzyanov439@yandex.ru"
+        }
+    ],
+    "require": {}
+}
